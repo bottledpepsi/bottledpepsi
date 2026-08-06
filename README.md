@@ -24,12 +24,6 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://x.com/bottledpepsi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-</p>
-
 ### 💭 Dev Quote
 
 <p align="center">
