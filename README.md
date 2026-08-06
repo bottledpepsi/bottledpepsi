@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-🌱 &nbsp;I'm currently learning **C++, Java**
+🌱 &nbsp;I'm currently learning **C++ and Java**
 
 ### 🛠️ Tech Stack
 
